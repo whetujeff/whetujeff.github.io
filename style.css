@@ -3,7 +3,7 @@ body {
 }
 
 .albumImages {
-    width:30%;
-    height:100px;
+    width:90%;
+    max-height:100px;
     padding: 10px;
 }
